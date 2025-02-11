@@ -64,7 +64,7 @@ Before you begin, make sure you have the following installed on your system:
 
 ## Setup Instructions
 
-**For Android Devices:-** Download the apk file from Releases or [Download from here](https://github.com/VinayakHinduja/Saasaki-Technologies-assessment-Github-Explorer/releases/download/Release/Github.Explorer.apk).
+**For Android Devices:-** Download the apk file from Releases or [Download from here](https://github.com/VinayakHinduja/Github-Explorer/releases/download/Release/Github.Explorer.apk).
 
 Follow these steps to set up and run the app locally:
 
@@ -72,13 +72,13 @@ Follow these steps to set up and run the app locally:
     Open your terminal and run:
     
     ```bash
-    git clone https://github.com/VinayakHinduja/Saasaki-Technologies-assessment-Github-Explorer.git
+    git clone https://github.com/VinayakHinduja/Github-Explorer.git
     ```
     
 2.  **Navigate to the Project Directory**
     
     ```bash
-    cd Saasaki-Technologies-assessment-Github-Explorer
+    cd Github-Explorer
     ```
     
 3.  **Install Dependencies**  
